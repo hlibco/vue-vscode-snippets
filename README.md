@@ -4,6 +4,16 @@
 
 ## Description
 
+This extension only adds Typescript and Stylus support to the original extension. Nothing more.
+
+In development mode, create a symlink to this project folder:
+
+```
+ln -s ~/[project_folder]/vue-vscode-snippets ~/.vscode/extensions
+```
+
+---
+
 These snippets were built to supercharge my workflow in the most seamless manner possible.
 
 This repo was built particularly for real world use. It doesn't catalogue the API definitions, and it's not a kitchen sink approach. Rather, it focuses on developer ergonomics from the point of Vue of real world use. Included are the pieces I personally get sick of typing, have to keep looking up, or forget to consider while developing that I make more use of when they're at my fingertips. 
